@@ -1,0 +1,28 @@
+{
+  "id": "app",
+  "name": "collabportalbfs_3",
+  "startScreen": "app.login",
+  "screens": [
+    {
+      "id": "home",
+      "name": "Home",
+      "sourceAppId": "TouchID",
+      "sourceScreenId": "app.home"
+    },
+    {
+      "id": "menu",
+      "name": "menu",
+      "sourceAppId": "TouchID",
+      "sourceScreenId": "app.menu"
+    },
+    {
+      "id": "login",
+      "name": "Login",
+      "sourceScreenId": "app.login",
+      "sourceAppId": "TouchID",
+      "model": "login"
+    }
+  ],
+  "sourceAppId": "TouchID",
+  "sourceScreenId": "app"
+}

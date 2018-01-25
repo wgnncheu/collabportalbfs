@@ -1,0 +1,12 @@
+{
+  "login": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "submit": {
+        "type": "action",
+        "parameters": {}
+      }
+    }
+  }
+}
