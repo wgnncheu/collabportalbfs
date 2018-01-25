@@ -3,6 +3,12 @@
   "description": "collabportalbfs",
   "defaultLayout": "phone-portrait",
   "previewToken": "378873cc",
-  "uiCommonVersion": "5.0.58",
-  "creatorId": "wgnncheu"
+  "uiCommonVersion": "5.2.10",
+  "creatorId": "wgnncheu",
+  "id": "collabportalbfs_3",
+  "previewImageURL": "/previews/378873cc-collabportalbfs_3/app/login.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/wgnncheu/collabportalbfs",
+  "creatorName": "Nicholas Cheung",
+  "sdks": []
 }
